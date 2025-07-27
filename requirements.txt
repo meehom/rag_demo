@@ -1,0 +1,4 @@
+ollama
+faiss-cpu==1.8.0
+tqdm
+pymilvus
